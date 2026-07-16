@@ -1,0 +1,15 @@
+{
+  "start_date": "2026-05-01",
+  "end_date": "2026-07-16",
+  "region_mapping": {
+    "美中": "达拉斯、休斯敦每日均值",
+    "美南": "亚特兰大、萨凡纳每日均值",
+    "美西": "洛杉矶",
+    "芝加哥": "芝加哥",
+    "美东": "纽瓦克（新泽西）"
+  },
+  "sources": [
+    "Open-Meteo Historical Weather API (ECMWF IFS)"
+  ],
+  "api_docs": "https://open-meteo.com/en/docs"
+}
